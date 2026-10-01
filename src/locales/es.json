@@ -1,0 +1,40 @@
+{
+  "common": {
+    "appName": "MiApp",
+    "ok": "Aceptar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar"
+  },
+  "home": {
+    "title": "¡Hola Mundo!",
+    "subtitle": "Bienvenido a React Native",
+    "darkMode": "Modo Oscuro",
+    "autoFollowingSystem": "(Auto - Siguiendo sistema)",
+    "manualOverride": "(Anulación manual)",
+    "resetToSystemTheme": "Restablecer al Tema del Sistema",
+    "themeFollowsDevice": "El tema sigue automáticamente la configuración de su dispositivo",
+    "themeManualOverride": "Usando anulación manual del tema - toque \"Restablecer\" para seguir el sistema"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "selectLanguage": "Seleccionar Idioma",
+    "theme": "Tema",
+    "about": "Acerca de"
+  },
+  "languages": {
+    "en": "Inglés",
+    "es": "Español",
+    "fr": "Francés",
+    "de": "Alemán",
+    "hi": "Hindi",
+    "zh": "Chino"
+  },
+  "offline": {
+    "title": "Sin Conexión a Internet",
+    "message": "Por favor, revisa tu configuración de red"
+  }
+}

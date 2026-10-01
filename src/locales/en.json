@@ -1,0 +1,40 @@
+{
+  "common": {
+    "appName": "MyApp",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  },
+  "home": {
+    "title": "Hello World!",
+    "subtitle": "Welcome to React Native",
+    "darkMode": "Dark Mode",
+    "autoFollowingSystem": "(Auto - Following system)",
+    "manualOverride": "(Manual override)",
+    "resetToSystemTheme": "Reset to System Theme",
+    "themeFollowsDevice": "Theme follows your device settings automatically",
+    "themeManualOverride": "Using manual theme override - tap \"Reset\" to follow system"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "theme": "Theme",
+    "about": "About"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "hi": "Hindi",
+    "zh": "Chinese"
+  },
+  "offline": {
+    "title": "No Internet Connection",
+    "message": "Please check your network settings"
+  }
+}

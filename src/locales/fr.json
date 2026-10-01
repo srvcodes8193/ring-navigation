@@ -1,0 +1,40 @@
+{
+  "common": {
+    "appName": "MonApp",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer"
+  },
+  "home": {
+    "title": "Bonjour le Monde!",
+    "subtitle": "Bienvenue à React Native",
+    "darkMode": "Mode Sombre",
+    "autoFollowingSystem": "(Auto - Suit le système)",
+    "manualOverride": "(Remplacement manuel)",
+    "resetToSystemTheme": "Réinitialiser au Thème Système",
+    "themeFollowsDevice": "Le thème suit automatiquement les paramètres de votre appareil",
+    "themeManualOverride": "Utilisation du remplacement manuel du thème - appuyez sur \"Réinitialiser\" pour suivre le système"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la Langue",
+    "theme": "Thème",
+    "about": "À Propos"
+  },
+  "languages": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "de": "Allemand",
+    "hi": "Hindi",
+    "zh": "Chinois"
+  },
+  "offline": {
+    "title": "Pas de Connexion Internet",
+    "message": "Veuillez vérifier vos paramètres réseau"
+  }
+}
